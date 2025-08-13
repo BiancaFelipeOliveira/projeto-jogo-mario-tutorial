@@ -5,7 +5,7 @@
 ---
 
 ### 📖 Sobre o Projeto
-Este é um jogo simples de navegador, **Mario Jump**, onde o objetivo é fazer o Mario pular para desviar dos obstáculos. O projeto foi desenvolvido seguindo um tutorial do canal do Youtube **Manual Dev**, com o intuito de praticar as funcionalidades essenciais do **JavaScript**, como a manipulação do DOM, a criação de animações e a lógica de detecção de colisão.
+Este é um jogo simples de navegador, **Mario Jump**, onde o objetivo é fazer o Mario pular para desviar dos obstáculos. O projeto foi desenvolvido em **2023**, seguindo um tutorial do canal do Youtube **Manual Dev**, com o intuito de praticar as funcionalidades essenciais do **JavaScript**, como a manipulação do DOM, a criação de animações e a lógica de detecção de colisão.
 
 ---
 
